@@ -1,0 +1,5 @@
+config.php
+.env
+/auth/google-callback.php
+*.log
+/tmp/
